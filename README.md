@@ -4,10 +4,10 @@
 
 The history of the logo can be found on the [wiki](https://wiki.redbrick.dcu.ie/mw/Redbrick_Logo)
 
-![Original Logo](https://github.com/redbrick/assets/raw/master/Logo/original_logo.gif)
+![Original Logo](https://github.com/redbrick/assets/raw/master/Logo/original_logo.webp)
 > Original Logo, 1998-2000 by Andy
 
-![Interim Logo](https://github.com/redbrick/assets/raw/master/Logo/2001_logo.gif)
+![Interim Logo](https://github.com/redbrick/assets/raw/master/Logo/2001_logo.webp)
 > 2001 interim Logo, 2001
 
 ![Circle Logo](https://github.com/redbrick/assets/raw/master/Logo/old_circle_logo.jpg)
