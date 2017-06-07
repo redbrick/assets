@@ -4,13 +4,13 @@
 
 The history of the logo can be found on the [wiki](https://wiki.redbrick.dcu.ie/mw/Redbrick_Logo)
 
-![Original Logo](https://github.com/redbrick/assets/raw/master/Logo/original_logo.webp)
+![Original Logo](https://github.com/redbrick/assets/raw/master/Logo/original_logo.png)
 > Original Logo, 1998-2000 by Andy
 
-![Interim Logo](https://github.com/redbrick/assets/raw/master/Logo/2001_logo.webp)
+![Interim Logo](https://github.com/redbrick/assets/raw/master/Logo/2001_logo.png)
 > 2001 interim Logo, 2001
 
-![Circle Logo](https://github.com/redbrick/assets/raw/master/Logo/old_circle_logo.jpg)
+![Circle Logo](https://github.com/redbrick/assets/raw/master/Logo/old_circle_logo.png)
 > Cirlce Logo, 2002-2011 by Kevin Cannon
 
 ![Current Logo](https://github.com/redbrick/assets/raw/master/Logo/logo.png)
@@ -27,5 +27,5 @@ The 20th Birthday Logo also has a header version
 
 ## Banner
 
-![20th Birthday](https://github.com/redbrick/assets/raw/master/Banner/20th_Banner.jpg)
+![20th Birthday](https://github.com/redbrick/assets/raw/master/Banner/20th_Banner.png)
 > 20th Birthday Banner by Cian Ruane @CianLR
