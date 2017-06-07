@@ -1,6 +1,4 @@
-# Assets
-
-## Logo
+# Logo
 
 The history of the logo can be found on the [wiki](https://wiki.redbrick.dcu.ie/mw/Redbrick_Logo)
 
@@ -30,8 +28,3 @@ The history of the logo can be found on the [wiki](https://wiki.redbrick.dcu.ie/
 
 ![Glitch Brick](https://github.com/redbrick/assets/raw/master/Logo/glitch_brick.png)
 > Glitch Brick by Cian Ruane [@CianLR](https://github.com/CianLR)
-
-## Banner
-
-![20th Birthday](https://github.com/redbrick/assets/raw/master/Banner/20th_Banner.png)
-> 20th Birthday Banner by Cian Ruane [@CianLR](https://github.com/CianLR)
